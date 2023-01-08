@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asksouley
 - 👀 I’m interested in Infrastructure as Code 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me . hello@asksouley.com
 
 <!---
