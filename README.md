@@ -3,7 +3,7 @@
 
 🔧 I enjoy working at the intersection of development and operations, automating processes, and optimizing workflows to deliver high-quality software faster.
 
-🛠️ My tech stack includes tools like Docker, Kubernetes, Jenkins, GitLab CI/CD, Ansible, Terraform, and AWS. I'm always exploring new technologies to stay on top of the ever-evolving DevOps landscape.
+🛠️ My tech stack includes tools like Docker, Kubernetes, Jenkins , Ansible, Terraform, and AWS. I'm always exploring new technologies to stay on top of the ever-evolving DevOps landscape.
 
 🌱 Currently, I'm focusing on honing my skills in infrastructure as code (IaC), security best practices, and leveraging cloud-native technologies for scalable and resilient applications.
 
