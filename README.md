@@ -10,8 +10,8 @@
 
 👨‍💻 When I'm not crafting infrastructure solutions, you can find me contributing to open-source projects, tinkering with side projects, or sharing my knowledge through blog posts and tech meetups.
 
-📫 Let's connect! Feel free to reach out for collaboration, discussions, or anything DevOps or cloud storage related. Let's build robust and efficient software together! 😄
-Skills: Docker / Jenkins / AWS / TERRAFORM / PYTHON
+📫 Let's connect! Feel free to reach out for collaboration, discussions, or anything DevOps or cloud storage related.
+Skills: Docker / Jenkins / AWS / Terraform / Python
 
 
 
