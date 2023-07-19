@@ -9,7 +9,7 @@
 
 👨‍💻 When I'm not crafting infrastructure solutions, you can find me contributing to open-source projects, tinkering with side projects, or sharing my knowledge through blog posts and tech meetups.
 
-📫 Let's connect! Feel free to reach out for collaboration, discussions, or anything DevOps or cloud storage related.
+📫 Let's connect! Feel free to reach out for collaboration, discussions, or anything DevOps or cloud storage related.</br>
 Communities: AWS Community Builders | AWS User Group Seattle- Co Organizer 
 
 
