@@ -1,6 +1,6 @@
 ### Hi there 👋, This  is Souleymane
 #### A DevOps engineer with a love for automation, continuous improvement and Cloud Storage
-![A DevOps engineer with a love for automation, continuous improvement and Cloud Storage](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A DevOps engineer with a love for automation, continuous improvement and Cloud Storage]
 
 🔧 I enjoy working at the intersection of development and operations, automating processes, and optimizing workflows to deliver high-quality software faster.
 
