@@ -1,9 +1,9 @@
 ### Hi there 👋, This  is Souleymane
 #### A DevOps engineer with a love for:
-    Automation, 
-    CI/CD 
-    Cloud Storage
-    IoT
+    *Automation, 
+    *CI/CD 
+    *Cloud Storage
+    *IoT
 
 🔧 I enjoy working at the intersection of development and operations, automating processes, and optimizing workflows to deliver high-quality software faster.
 
